@@ -38,4 +38,5 @@ Versão 1.0
 ## ✒️ Autores
 
 Luiz Eduardo
+
 ![Screenshot_1](https://github.com/user-attachments/assets/5c7441fd-153e-4373-9cf6-f239ef2b9b8d)
